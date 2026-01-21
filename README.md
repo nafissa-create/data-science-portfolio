@@ -27,8 +27,8 @@ Repository: https://github.com/nafissa-create/DSA-Study-of-CO2-Emission-in-Afric
 
 ### Scientific Calculator Application
 *Object-Oriented Programming - Group Project (February 2025)*
-Developed a scientific calculator in Java with a user interface identical to the iPhone calculator UI.
-Repository:
+Developed a scientific calculator in Java with a user interface identical to the iPhone calculator UI.  
+Repository: https://github.com/nafissa-create/OOP-Scientific-calculator.git
 
 ### Statistical Analysis of Body Fat Measurements  
 *Statistical Analysis with R – Group Project (January 2025)*  
