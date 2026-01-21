@@ -38,7 +38,7 @@ Repository: https://github.com/nafissa-create/Analysis-of-body-fat-measurements.
 ### Boston Housing Price Analysis
 *Principles od Data Science - Group Project (October 2024)* 
 Explored and visualized the Boston Housing dataset, built a linear regression model and evaluated its performance using training and testing datasets.
-Repository:
+Repository: https://github.com/nafissa-create/Boston-Housing-Price-Analysis.git
 
 ### Algorithm for Humanitarian Assistance
 *Fundamentals of Computer Programming - Mini Project (September 2024)*
