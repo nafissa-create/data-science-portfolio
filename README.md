@@ -17,8 +17,7 @@ I have worked on projects involving environmental data analysis, socio-economic 
 ### Salary Prediction and Diamond Price Predictor  
 *Information Security, Governance & Cloud – Group Projects (March 2025)*  
 Developed predictive applications for salary estimation and diamond price prediction using data analysis and modeling techniques.  
- Salary Predictor: https://github.com/fabiolashimwa/blank-app.git
- 
+ Salary Predictor: https://github.com/fabiolashimwa/blank-app.git  
  Diamond Price Predictor: https://github.com/nafissa-create/Diamond-cost-predictor.git
 
 ### CO₂ Emissions Analysis in Africa  
