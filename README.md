@@ -26,7 +26,7 @@ Analyzed CO₂ emissions data in Africa and identified appropriate data structur
 Repository: https://github.com/nafissa-create/DSA-Study-of-CO2-Emission-in-Africa-.git
 
 ### Scientific Calculator Application
-*Object-Oriented Programming - Group Project (February 2025)*
+*Object-Oriented Programming - Group Project (February 2025)*  
 Developed a scientific calculator in Java with a user interface identical to the iPhone calculator UI.  
 Repository: https://github.com/nafissa-create/OOP-Scientific-calculator.git
 
@@ -36,12 +36,12 @@ Conducted statistical analysis on body fat measurements using R and produced a d
 Repository: https://github.com/nafissa-create/Analysis-of-body-fat-measurements.git
 
 ### Boston Housing Price Analysis
-*Principles od Data Science - Group Project (October 2024)* 
+*Principles od Data Science - Group Project (October 2024)*  
 Explored and visualized the Boston Housing dataset, built a linear regression model and evaluated its performance using training and testing datasets.
 Repository: https://github.com/nafissa-create/Boston-Housing-Price-Analysis.git
 
 ### Algorithm for Humanitarian Assistance
-*Fundamentals of Computer Programming - Mini Project (September 2024)*
+*Fundamentals of Computer Programming - Mini Project (September 2024)*  
 Designed a written algorithm to ensure equitable distribution of food and non-food to displaced populations affected by armed conflicts.  
 Repository: https://github.com/nafissa-create/Algorithm-for-Humanitarian-assistance.git
 
